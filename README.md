@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola! 👋
 
-<!--
-**serchavalos/serchavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Sergio Avalos
 
-Here are some ideas to get you started:
+Software Engineer developing the Spotify client on Smart TVs 📺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### Links
+
+- [/linkedin](https://www.linkedin.com/in/serchavalos)
+- [/twitter](https://twitter.com/serchavalos)
+- [/github](https://github.com/serchavalos)
+- [/codepen](https://codepen.io/serchavalos)
+
+### Posts 📓
+
+- [TV Spatial Navigation](https://engineering.atspotify.com/2023/05/tv-spatial-navigation/)
+- [Nurturing a culture of knowledge sharing](https://medium.com/safetycultureengineering/nurturing-a-culture-of-knowledge-sharing-55c07ada3434)
+- [And other random posts to practice Swedish](https://medium.com/@serchavalos)
