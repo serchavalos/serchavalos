@@ -4,9 +4,6 @@
 
 Software Engineer developing the Spotify client on Smart TVs 📺
 
-
-----
-
 ### Links
 
 - [/linkedin](https://www.linkedin.com/in/serchavalos)
