@@ -1,8 +1,9 @@
 # Hola! 👋
 
-## My name is Sergio Avalos
+## I'm Sergio Avalos
 
 Software Engineer developing the Spotify client on Smart TVs 📺
+
 
 ----
 
